@@ -10,7 +10,7 @@ Escape from Tarkov Price Checker
 <!-- ABOUT -->
 ## About
 
-Browser extension that will render the flea mark price, dealer, and dealer price onto [Escape from Tarkov wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) when you are looking at an iteam
+Browser extension that will render the flea mark price, dealer, and dealer price onto [Escape from Tarkov wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) when you are looking at an item.
 
 <!-- INSTALL -->
 ## Install
